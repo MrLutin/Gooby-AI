@@ -4,6 +4,11 @@
 # 🚨 First release 🚨
 More information will be added to the readme file soon!
 
+## What Can Gooby Do?
+
+- **Talk with Your Viewers**: Respond to chat events like subscriptions, gifts, and more.
+- **Comming soon**: Change The stream title, Create Pool and more
+
 ## Dependencies
 [NodeJS](https://nodejs.org/)
 
@@ -40,8 +45,3 @@ PORCUPINE_API_KEY=""
 
 ## Run the application
 Run the ``install.bat`` at first launch and the ``run.bat`` file for the Assistant come to life! 
-
-## What Can Gooby Do?
-
-- **Talk with Your Viewers**: Respond to chat events like subscriptions, gifts, and more.
-- **Comming soon**: Change The stream title, Create Pool and more
