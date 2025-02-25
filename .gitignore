@@ -1,4 +1,6 @@
 ﻿.idea
 .env
-/dist
+*.ppn
 /node_modules
+/wake_answer
+/wait_answer
