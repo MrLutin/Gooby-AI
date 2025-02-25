@@ -1,0 +1,31 @@
+{
+  "name": "lutin_ai",
+  "version": "0.0.1",
+  "author": "MrLutinFous",
+  "main": "index.js",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@picovoice/porcupine-node": "^3.0.6",
+    "@picovoice/pvrecorder-node": "^1.2.6",
+    "dotenv": "^16.3.1",
+    "ollama": "latest",
+    "elevenlabs": "^1.51.0",
+    "ffmpeg-static": "^5.2.0",
+    "sound-play": "^1.1.0",
+    "speaker": "^0.5.4",
+    "wavefile": "^11.0.0",
+    "node-vad": "^1.1.4",
+    "@twurple/auth-tmi": "^7.2.1",
+    "@twurple/auth": "^7.2.1",
+    "@twurple/easy-bot": "^7.2.1",
+    "@twurple/pubsub": "^7.2.1",
+    "@twurple/api": "^7.2.1"
+    
+  }
+}
